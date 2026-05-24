@@ -1,0 +1,30 @@
+Project Title:
+CineMatch AI
+
+Objective:
+Recommend movies similar to a selected movie.
+
+Dataset:
+TMDB 5000 Movie Dataset
+
+Tech Used:
+Python
+Pandas
+Scikit-learn
+Streamlit
+
+Concept:
+Content-Based Recommendation System
+
+Method:
+Cosine Similarity
+
+Features Used:
+Genres
+Keywords
+Cast
+Director
+Overview
+
+Result:
+Movie recommendations generated successfully.
